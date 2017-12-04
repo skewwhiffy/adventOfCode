@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\code\\github.com\\skewwhiffy\\adventOfCode\\Advent.Of.Code.Core\\Advent.Of.Code.Core.csproj",
+    "projectName": "Advent.Of.Code.Core",
+    "projectPath": "C:\\code\\github.com\\skewwhiffy\\adventOfCode\\Advent.Of.Code.Core\\Advent.Of.Code.Core.csproj",
+    "outputPath": "C:\\code\\github.com\\skewwhiffy\\adventOfCode\\Advent.Of.Code.Core\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        }
+      }
+    }
+  }
+}
