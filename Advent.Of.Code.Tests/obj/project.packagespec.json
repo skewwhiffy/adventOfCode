@@ -11,7 +11,11 @@
     ],
     "frameworks": {
       "netcoreapp1.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\code\\github.com\\skewwhiffy\\adventOfCode\\Advent.Of.Code.Core\\Advent.Of.Code.Core.csproj": {
+            "projectPath": "C:\\code\\github.com\\skewwhiffy\\adventOfCode\\Advent.Of.Code.Core\\Advent.Of.Code.Core.csproj"
+          }
+        }
       }
     }
   },
@@ -21,6 +25,10 @@
         "Microsoft.NETCore.App": {
           "target": "Package",
           "version": "1.1.2"
+        },
+        "FluentAssertions": {
+          "target": "Package",
+          "version": "4.19.4"
         },
         "Microsoft.NET.Test.Sdk": {
           "target": "Package",
